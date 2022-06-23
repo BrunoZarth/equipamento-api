@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api/EquipmentState")
+@RequestMapping("/api/equipmentState")
 public class EquipmentStateController {
 
     private final EquipmentStateService equipmentStateService;
