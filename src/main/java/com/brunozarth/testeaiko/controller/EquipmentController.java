@@ -1,8 +1,8 @@
 package com.brunozarth.testeaiko.controller;
 
 import com.brunozarth.testeaiko.model.Equipment;
-import com.brunozarth.testeaiko.requests.EquipmentPostRequestBody;
-import com.brunozarth.testeaiko.requests.EquipmentPutRequestBody;
+import com.brunozarth.testeaiko.requests.equipment.EquipmentPostRequestBody;
+import com.brunozarth.testeaiko.requests.equipment.EquipmentPutRequestBody;
 import com.brunozarth.testeaiko.service.EquipmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

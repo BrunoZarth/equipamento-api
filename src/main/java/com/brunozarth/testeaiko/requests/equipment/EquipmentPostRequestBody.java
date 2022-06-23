@@ -1,4 +1,4 @@
-package com.brunozarth.testeaiko.requests;
+package com.brunozarth.testeaiko.requests.equipment;
 
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;

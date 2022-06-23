@@ -3,8 +3,8 @@ package com.brunozarth.testeaiko.service;
 import com.brunozarth.testeaiko.exception.BadRequestException;
 import com.brunozarth.testeaiko.model.Equipment;
 import com.brunozarth.testeaiko.repository.EquipmentRepository;
-import com.brunozarth.testeaiko.requests.EquipmentPostRequestBody;
-import com.brunozarth.testeaiko.requests.EquipmentPutRequestBody;
+import com.brunozarth.testeaiko.requests.equipment.EquipmentPostRequestBody;
+import com.brunozarth.testeaiko.requests.equipment.EquipmentPutRequestBody;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
