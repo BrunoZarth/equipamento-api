@@ -1,6 +1,6 @@
 <h1>Equipamento API</h1> 
 
-Esta API foi desenvolvida para o teste de estágio backend da AIKO Digita. Consiste em um CRUD com 6 entidades. API testada, documentada e com deploy via Heroku. 
+Esta API consiste em um CRUD com 6 entidades. API testada, documentada e com deploy via Heroku. 
 
 ### Tópicos 
 
