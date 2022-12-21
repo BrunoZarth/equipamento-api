@@ -2,6 +2,8 @@
 
 Esta API consiste em um CRUD com 6 entidades. API testada, documentada e com deploy via Heroku. 
 
+(Obs: esta foi minha primeira experiência desenvolvendo sozinho uma api RESTful mais robusta integralmente. hoje, com mais experiência, percebo muitos "erros" e inconsistências, porém, mantenho esta API aqui do jeito que foi desenvolvida (no primeiro semestre de 2022), justamente como referência para analisar minha evolução.)  
+
 ### Tópicos 
 
 :small_blue_diamond: [Funcionalidades da API](#funcionalidades-da-API)
